@@ -19,8 +19,6 @@
     
     
     %>
-    
-    I fuck you badly....
 
 </body>
 </html>
